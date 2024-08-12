@@ -135,6 +135,7 @@ body{
 
     .apresentaçao__conteudo{
         width:auto ;
+        text-align: center;
     }
 
 }
